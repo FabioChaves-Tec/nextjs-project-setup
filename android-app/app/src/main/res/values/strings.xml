@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ITERAIMA</string>
+    
+    <!-- Login -->
+    <string name="logo_iteraima">Logo ITERAIMA</string>
+    <string name="email">E-mail</string>
+    <string name="password">Senha</string>
+    <string name="login">Entrar</string>
+    <string name="login_error">Erro ao fazer login. Verifique suas credenciais.</string>
+    <string name="network_error">Erro de conexão. Verifique sua internet.</string>
+    
+    <!-- Department Names -->
+    <string name="dipre">Diretoria de Presidência</string>
+    <string name="digof">Diretoria de Gestão Orçamentária e Financeira</string>
+    <string name="dsf">Diretoria de Serviços Fundiários</string>
+    <string name="dirad">Diretoria de Administração</string>
+    <string name="digef">Diretoria de Gestão Fundiária</string>
+    
+    <!-- Schedule Management -->
+    <string name="schedule_title">Título</string>
+    <string name="schedule_description">Descrição</string>
+    <string name="schedule_date">Data</string>
+    <string name="schedule_time">Horário</string>
+    <string name="schedule_create">Criar Agenda</string>
+    <string name="schedule_update">Atualizar Agenda</string>
+    <string name="schedule_delete">Excluir Agenda</string>
+    
+    <!-- Appointment -->
+    <string name="appointment_name">Nome Completo</string>
+    <string name="appointment_email">E-mail</string>
+    <string name="appointment_phone">Telefone</string>
+    <string name="appointment_subject">Assunto</string>
+    <string name="appointment_description">Descrição do Assunto</string>
+    <string name="appointment_date">Data Preferencial</string>
+    <string name="appointment_time">Horário Preferencial</string>
+    <string name="appointment_submit">Solicitar Agendamento</string>
+    
+    <!-- Status Messages -->
+    <string name="loading">Carregando…</string>
+    <string name="success">Operação realizada com sucesso</string>
+    <string name="error">Ocorreu um erro. Tente novamente.</string>
+    <string name="required_field">Campo obrigatório</string>
+    <string name="invalid_email">E-mail inválido</string>
+    <string name="invalid_phone">Telefone inválido</string>
+    
+    <!-- Menu Items -->
+    <string name="menu_schedule">Agenda</string>
+    <string name="menu_appointments">Agendamentos</string>
+    <string name="menu_profile">Perfil</string>
+    <string name="menu_logout">Sair</string>
+    
+    <!-- Dialog Messages -->
+    <string name="dialog_confirm_title">Confirmação</string>
+    <string name="dialog_delete_message">Deseja realmente excluir este item?</string>
+    <string name="dialog_yes">Sim</string>
+    <string name="dialog_no">Não</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancelar</string>
+</resources>
